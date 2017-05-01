@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Select Any Language",
+    "_skin_": "scb6e146951c4dc58b47c1c72bc1f4f7",
+    "_top_": {
+        "type": "string",
+        "value": "82dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmTwo",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "groupcells": false,
+    "id": "lstBox",
+    "info": null,
+    "isvisible": true,
+    "kuid": "384b8e8de59543489f187adf570f198f",
+    "masterdata": [
+        [
+            "en_IN",
+            "English"
+        ],
+        [
+            "ar_AE",
+            "Arabic",
+            "Arabic"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "FlxCon",
+    "pf": "frmTwo",
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

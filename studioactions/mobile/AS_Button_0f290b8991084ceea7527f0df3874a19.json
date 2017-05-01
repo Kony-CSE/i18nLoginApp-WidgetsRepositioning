@@ -1,0 +1,24 @@
+{
+    "AS_Button_0f290b8991084ceea7527f0df3874a19": {
+        "id": "AS_Button_0f290b8991084ceea7527f0df3874a19",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "8c7d2b5ff291494e9a58cac1104e803b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c00f3c61e17c4284b5d195a38eefd832",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmTwo.show();\nfrmHome.destroy();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

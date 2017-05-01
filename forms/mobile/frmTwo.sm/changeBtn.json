@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "56dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s670429ec2f94f75b8f587e86cfe18a9",
+    "_text_": "Change",
+    "_top_": {
+        "type": "string",
+        "value": "193dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "53%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s323c66856d44b1dac0135e8a24b9880",
+    "id": "changeBtn",
+    "ide_onClick": "AS_Button_bbfca45f5b3b47d988f8b9f3d84921e3",
+    "info": null,
+    "isvisible": true,
+    "kuid": "2a17c832e1d84bb6a3a832e0c3242e3e",
+    "name": "kony.ui.Button",
+    "parent": "FlxCon",
+    "pf": "frmTwo",
+    "texti18n": "Change",
+    "wType": "Button",
+    "zindex": 1
+}

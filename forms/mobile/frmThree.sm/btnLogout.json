@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s61fda8dc3f8429496c2c03f31c1e614",
+    "_text_": "Logout",
+    "_top_": {
+        "type": "string",
+        "value": "563dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "99.88%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s323c66856d44b1dac0135e8a24b9880",
+    "id": "btnLogout",
+    "ide_onClick": "AS_Button_ffd586ad62584763848507b88528d6c6",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b937fcd4ef2d4746a5c48c0121b4e15a",
+    "name": "kony.ui.Button",
+    "parent": "frmThree",
+    "pf": "frmThree",
+    "texti18n": "Logout",
+    "wType": "Button",
+    "zindex": 1
+}

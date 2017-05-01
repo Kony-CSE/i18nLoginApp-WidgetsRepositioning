@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6e14cec20a64605ac39efeaa05b600d",
+    "_text_": "Password",
+    "_width_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "20%"
+    },
+    "centery": "40.00%",
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "pass",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "adf6b835e77e471f8a6b2734184c3405",
+    "name": "kony.ui.Label",
+    "parent": "FlexCont",
+    "pf": "frmHome",
+    "texti18n": "pass",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

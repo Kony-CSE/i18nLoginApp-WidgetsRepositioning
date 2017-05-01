@@ -1,0 +1,24 @@
+{
+    "AS_Form_e03b9abec14944368d679a35ea1b9083": {
+        "id": "AS_Form_e03b9abec14944368d679a35ea1b9083",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmThree",
+            "type": "forms",
+            "platform": "",
+            "KUID": "573bb011bc044529b8ef780e5006b90d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c44b88b357eb43b3aaa25923772e1490",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//alert(currentLocales);\nif(currentLocales==\"en_IN\")\n frmThree.brwsr.requestURLConfig={URL: \"http://www.bbc.com/\",requestMethod:constants.BROWSER_REQUEST_METHOD_GET};\n\nif(currentLocales==\"ar_AE\")\n  frmThree.brwsr.requestURLConfig={URL: \"http://www.bbc.com/arabic\", requestMethod:constants.BROWSER_REQUEST_METHOD_GET};\n\n  ",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,1 @@
+var i18nObject = {"logId":"LoginId","pass":"Password","txtbx1":"Enter here","txtbx2":"password","btnLog":"Login","select":"Select Language","Arabic":"Arabic(عربى)","Change":"Change","Logout":"logout","Browser":"Browser","Welcome":"Welcome","Select language":"Select Language","terms":"By using this app, you agree to our terms and conditions"}
